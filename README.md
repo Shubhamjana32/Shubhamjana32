@@ -9,7 +9,7 @@
 
 💬 Ask me about Zero-Server Architecture, Client-Side Storage (LocalStorage/IndexedDB), JavaScript, and rapid UI development using Tailwind CSS.
 
-📫 How to reach me: Connect with me on [LinkedIn]( https://www.linkedin.com/in/shubham-jana-3b650628a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVkU%2BmYipR4mpK8SBthUWIA%3D%3D ) or email me at devshubham@gmail.com.
+📫 How to reach me: Connect with me on [LinkedIn]( https://www.linkedin.com/in/shubham-jana-3b650628a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVkU%2BmYipR4mpK8SBthUWIA%3D%3D ) or email me at devshubhamjana@gmail.com.
 
 😄 Pronouns:He/Him
 
