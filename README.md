@@ -37,15 +37,13 @@
 
 ### **📊 GitHub Stats**
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamjana32&show_icons=true&theme=vue&hide_border=true&count_private=true&locale=en" alt="Shubhamjana32 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamjana32&show_icons=true&theme=vue&hide_border=true&locale=en" alt="Shubhamjana32 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamjana32&layout=compact&theme=vue&hide_border=true&locale=en" alt="Shubhamjana32 Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamjana32&theme=vue&hide_border=true&locale=en" alt="Shubhamjana32 Streak" />
-</p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamjana32&theme=vue&hide_border=true&locale=en" alt="Shubhamjana32 Streak" />
-  </a>
 </p>
