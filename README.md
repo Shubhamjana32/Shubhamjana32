@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shubhamjana32
+# Hi there 👋 I'm Shubham
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212379774-4b5c7379-9941-4712-a1f9-8472f10b80e8.gif" alt="Animated typing text: I build modern web applications" width="600"/>
